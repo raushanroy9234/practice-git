@@ -1,2 +1,2 @@
-hello raush in main?git feature branch ?
+hello raush in main?git feature branch ?merge conflict happen
 creating merge conflict
